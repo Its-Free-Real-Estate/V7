@@ -1,0 +1,38 @@
+.bottom{
+    background-color: rgb(254, 0, 0);
+    color: white;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    font-family: 'Barlow', sans-serif;   
+   
+   
+}
+
+#contact{
+    margin-left: 7.5%;
+    margin-bottom: 0.5%;
+    
+
+}
+
+.space3{
+    background-color: rgb(254, 0, 0);
+    height: 35px;
+    width: 100%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    
+}
+
+.space4{
+    background-color: rgb(254, 0, 0);
+    height: 35px;
+    width: 100%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -0.51%;
+    
+}
